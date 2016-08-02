@@ -36,7 +36,7 @@ you can start building it. Here's a list of them:
   required at the moment)
 
 * perforce jam 2.5 or later (used as build tool)
-  ftp://ftp.perforce.com/pub/jam
+  https://swarm.workshop.perforce.com/projects/perforce_software-jam
 
 * SDL 1.2.5 or later
   http://www.libsdl.org
